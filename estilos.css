@@ -1,0 +1,60 @@
+
+body
+{
+  background-color:#FFFFFF;
+  font-size: 14px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+
+#bordes
+{/*framewok jquery*/
+
+	border: 4px solid red;
+	
+	
+	width: 90px;
+ height: 90px;
+
+
+}
+
+.caminar
+ {
+   background: url(img/mario.png) no-repeat top left;
+    padding-right: 2px;
+
+ }
+ 
+ 
+.20{ background-position: 0 0; width: 19px; height: 33px; } 
+.s19{ background-position: -69px 0; width: 20px; height: 33px; } 
+.s18{ background-position: -139px 0; width: 23px; height: 30px; } 
+.s17{ background-position: -212px 0; width: 23px; height: 35px; } 
+.s16{ background-position: -285px 0; width: 16px; height: 34px; } 
+.s15{ background-position: -351px 0; width: 20px; height: 33px; } 
+.s14{ background-position: -421px 0; width: 20px; height: 34px; } 
+.s13{ background-position: -491px 0; width: 18px; height: 32px; } 
+.s12{ background-position: -559px 0; width: 20px; height: 34px; } 
+.s11{ background-position: -629px 0; width: 20px; height: 34px; } 
+.s10{ background-position: -699px 0; width: 21px; height: 37px; } 
+.s9{ background-position: -770px 0; width: 20px; height: 34px; } 
+.s8{ background-position: -840px 0; width: 21px; height: 35px; } 
+.s7{ background-position: -911px 0; width: 22px; height: 36px; } 
+.s6{ background-position: -983px 0; width: 22px; height: 36px; } 
+.s5{ background-position: -1055px 0; width: 21px; height: 34px; } 
+.s4{ background-position: -1126px 0; width: 17px; height: 34px; } 
+.s3{ background-position: -1193px 0; width: 21px; height: 34px; } 
+.s2{ background-position: -1264px 0; width: 18px; height: 34px; } 
+.s1{ background-position: -1332px 0; width: 17px; height: 34px; } 
+
+
+
+
+
+
+
+
+
+
